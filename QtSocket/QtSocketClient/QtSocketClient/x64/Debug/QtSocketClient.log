@@ -1,0 +1,20 @@
+﻿生成启动时间为 2020/11/24 16:16:53。
+     1>项目“d:\Projects\QtSocketClient\QtSocketClient\QtSocketClient.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_Client.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_Client.cpp, GeneratedFiles\Release\moc_Client.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_QtSocketClient.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_QtSocketClient.cpp, GeneratedFiles\Release\moc_QtSocketClient.cpp.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtMultimedia /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtMultimediaWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtNetwork /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtNfc /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtQuickWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtSvg /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtTest /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtUiTools /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtWebSockets /IC:\Qt\Qt5.7.0\5.7\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_MULTIMEDIA_LIB /D QT_MULTIMEDIAWIDGETS_LIB /D QT_NETWORK_LIB /D QT_NFC_LIB /D QT_QUICKWIDGETS_LIB /D QT_SVG_LIB /D QT_TESTLIB_LIB /D QT_UITOOLS_LIB /D QT_WEBSOCKETS_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Client.cpp
+         Client.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"d:\Projects\QtSocketClient\x64\Debug\\QtSocketClient.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Multimediad.lib Qt5MultimediaWidgetsd.lib Qt5Networkd.lib Qt5Nfcd.lib Qt5QuickWidgetsd.lib Qt5Svgd.lib Qt5Testd.lib Qt5UiToolsd.lib Qt5WebSocketsd.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\Projects\QtSocketClient\x64\Debug\QtSocketClient.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\Projects\QtSocketClient\x64\Debug\QtSocketClient.lib" /MACHINE:X64 x64\Debug\Client.obj
+         x64\Debug\moc_Client.obj
+         x64\Debug\moc_QtSocketClient.obj
+         x64\Debug\qrc_QtSocketClient.obj
+         x64\Debug\main.obj
+         x64\Debug\QtSocketClient.obj
+         QtSocketClient.vcxproj -> d:\Projects\QtSocketClient\x64\Debug\QtSocketClient.exe
+     1>已完成生成项目“d:\Projects\QtSocketClient\QtSocketClient\QtSocketClient.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.91

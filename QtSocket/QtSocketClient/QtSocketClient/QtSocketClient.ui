@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>QtSocketClientClass</class>
+ <widget class="QDialog" name="QtSocketClientClass" >
+  <property name="objectName" >
+   <string notr="true">QtSocketClientClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QtSocketClient</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="QtSocketClient.qrc"/>
+ </resources>
+ <connections/>
+</UI>
